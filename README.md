@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Haody996
-- 👀 I’m interested in making a personal game. It's a dream of mine to create a game that everybody loves.
-- 🌱 I’m currently learning Computer Graphics and Game Design at Penn.
+- 👋 Hello, I’m Hao Qin. I'm a Master's student with an interest in Computer Graphic at University of Pennsylvania. I am currently looking for a job in software engineering for summer 2022.
+
 
 
 <!---
