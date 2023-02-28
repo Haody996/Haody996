@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Hao Qin. I'm a Master's student with an interest in Computer Graphic at University of Pennsylvania. I am currently looking for a job in software engineering for summer 2022.
+- 👋 Hello, I’m Hao Qin. I'm a Master's in Computer Graphic and Game Design at University of Pennsylvania. I am currently looking for a full-time job in game industry/software engineering. Please take a look at the projects I made!
 
 
 
